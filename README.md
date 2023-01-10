@@ -1,4 +1,4 @@
-# **MAZE game Using SDL2 and C++**
+# **MAZE Game Using SDL2 and C++**
 
 # Maze-Game
 
