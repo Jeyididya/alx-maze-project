@@ -1,7 +1,7 @@
 #include "../headers/header.h"
 
 /**
- * drawRectangle - draw a rectangle
+ * drawRectangle - draw  a rectangle
  * @x: x coordinate
  * @y: y coordinate
  * @width: rectangle width
