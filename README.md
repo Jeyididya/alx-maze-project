@@ -1,4 +1,4 @@
-### MAZE game Using SDL2 and C++
+# **MAZE game Using SDL2 and C++**
 
 # Maze-Game
 
@@ -11,13 +11,17 @@ SDL officially supports Windows, mac 0S X, Linux, ios, and Android.
 * SDL is written in C, works natively with C++, and there are bindings available for several other languages.
 * It gives an api for processing video ,audio processing, etc.
 
+# Reference
+* http://lazyfoo.net/
+* https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/
+
 
 # Usage
-* compile using make or gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`
-* Execute ./maze
-* Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
-* Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
++ compile using make or `gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze sdl2-config --cflags sdl2-config --libs`
++ Execute ./maze
++ Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
++ Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
 
 # Author
-------------|------------------------
-Yididya Andualem| (Github) [https://github.com/Jeyididya]
+
+* Yididya Andualem [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jedidiah.Andualem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jedidiah_andualem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yididya-andualem-23a43b207) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JAndualem) 
