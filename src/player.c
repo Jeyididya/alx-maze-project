@@ -1,7 +1,7 @@
 #include "../headers/header.h"
 
 /**
-* movePlayer - set the next position of the player
+* movePlayer - set the next  position of the player
 * @DeltaTime: time passed since the last frame
 */
 
