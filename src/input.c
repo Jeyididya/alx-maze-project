@@ -1,7 +1,7 @@
 #include "../headers/header.h"
 
 /**
- * SDL_KEYDOWN_FUNC - when key is down process input
+ * SDL_KEYDOWN_FUNC - when key  is down process input
  * @event: union that contains structures for the event types
  */
 
