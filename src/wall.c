@@ -2,7 +2,7 @@
 
 /**
  * changeColorIntensity - change color intensity
- * based on a factor value between 0 and 1
+ * based on a factor value  between 0 and 1
  * @factor: intensity factor
  * @color: color for intensity
 */
