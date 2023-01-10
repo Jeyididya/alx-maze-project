@@ -1,7 +1,7 @@
 #include "../headers/header.h"
 
 /**
- * distanceBetweenPoints - Finds horizontal intersection with the wall
+ * distanceBetweenPoints - Finds horizontal  intersection with the wall
  * @x1: x coordinate of the starting point
  * @y1: y coordinate oh the starting point
  * @x2: x coordinate of the end point
