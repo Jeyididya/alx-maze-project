@@ -6,7 +6,7 @@ static float horzWallHitX, horzWallHitY, vertWallHitX, vertWallHitY;
 static int horzWallContent, vertWallContent;
 
 /**
-* horizontalInter - finds horizontal intersection with the wall
+* horizontalInter - finds horizontal  intersection with the wall
 * @rayAngle: current ray angle
 */
 void horizontalInter(float rayAngle)
