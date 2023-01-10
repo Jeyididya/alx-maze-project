@@ -5,7 +5,7 @@ int TicksLastFrame = 0;
 player_t player;
 
 /**
-* updateGame - update delta time per frame
+* updateGame - update delta  time per frame
 */
 
 void updateGame(void)
