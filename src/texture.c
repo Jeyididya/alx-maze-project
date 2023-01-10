@@ -13,7 +13,7 @@ static const char* textureFileNames[NUM_TEXTURES] = {
 };
 
 /**
- * WallTexturesready - load textures in the respective position
+ * WallTexturesready - load textures  in the respective position
  *
 */
 void WallTexturesready(void)
