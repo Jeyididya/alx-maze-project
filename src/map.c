@@ -17,7 +17,7 @@ static const int map[MAP_NUM_ROWS][MAP_NUM_COLS] = {
 };
 
 /**
- * isInsideMap - check if we continue within the map
+ * isInsideMap - check if we  continue within the map
  * @x: next x coordinate
  * @y: next y coordinate
  * @Return: true if it is within the map, false otherwise
