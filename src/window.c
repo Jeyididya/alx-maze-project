@@ -6,7 +6,7 @@ static SDL_Texture *colorBufferTexture;
 static SDL_Window *win;
 
 /**
- * initializedWindow - Initialize the window to render the maze
+ * initializedWindow - Initialize the  window to render the maze
  * return - true of false
  */
 
